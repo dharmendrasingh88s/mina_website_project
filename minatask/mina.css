@@ -1,0 +1,272 @@
+i{
+    font-size: 22px;
+    padding-top: -10px;
+}
+
+.left{
+    margin-left: 90px;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    display: flex;
+}
+
+h5{
+    padding-left: 15px;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.right{
+    margin-top: 30px;
+    margin-bottom: 20px;
+    padding-right: 90px;
+    display: flex;
+}
+
+.right i{
+    font-size: 16px;
+}
+
+.right h5{
+    font-size: 16px;
+    font-weight: 400;
+    padding-left: 10px;
+}
+
+.btn{
+    text-align: center;
+    background-color: #583BB6;
+    color: white;
+    border-radius: 50px;
+    width: 151px;
+    height: 36px;
+    padding: 10px 24px;
+    font-size: 10px;
+    font-weight: 700;
+    margin-left: 30px;
+    margin-top: -10px;
+}
+
+.btn:hover{
+    background-color: #4b1de3;
+    color: white;
+}
+
+.left i{
+    color: gray;
+}
+
+.left i:hover{
+    color: red;
+}
+
+.l-side h4{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 130px;
+    font-weight: 800;
+}
+
+.nav-item{
+    padding-left: 20px;
+    font-size: 17px;
+}
+
+.nav-link{
+    color: black;
+}
+
+.nav-link:hover{
+    color: black;
+    text-decoration: underline;
+
+}
+
+.nav-link i{
+    padding-right: 10px;
+}
+
+.center{
+    padding-top: 15px;
+    padding-bottom: 15px;
+    text-align: center;
+    color: white;
+    background-color: rgba(78, 31, 89, 1);
+}
+
+.center h4{
+    font-size: 16px;
+}
+
+.bg{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url("images/Rectangle-YZ9P6kWjMnUBNL6W.png");
+    width: 100%;
+    height: 660px;
+    background-position: center;
+    background-size: cover;
+    object-fit: cover;
+}
+
+.overlay{
+    text-align: center;
+    color: white;
+}
+
+.overlay h1{
+    margin-top: 230px;
+    font-size: 6rem;
+    font-weight: 500;
+}
+
+.overlay h5{
+    font-size: 20px;
+    margin-top: 24px;
+}
+
+.overlay .button{
+    margin-top: 24px;
+    text-decoration: none;
+    border: none;
+    background-color: white;
+    color: rgb(76, 31, 89);;
+    width: 163px;
+    height: 57px;
+    text-align: center;
+    border-radius: 8px;
+    font-size: 16px;
+}
+
+.second{
+    text-align: center;
+    margin-top: 80px;
+    margin-bottom: 50px;
+}
+
+.second h1{
+    font-size: 50px;
+}
+
+.bg2{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url("images/Untitled-AzGRJwMK6BHxZypJ.png");
+    width: 100%;
+    height: 660px;
+    background-position: center;
+    background-size: cover;
+    object-fit: cover;
+}
+
+.text{
+    margin-top: 40px;
+}
+
+.text p{
+    color: rgb(93, 87, 94);
+    font-size: 20px;
+    margin-top: 20px;
+}
+
+.button1{
+    width: 175px;
+    height: 57px;
+    padding: 14px 40px;
+    text-align: center;
+    color: white;
+    background-color: #4C1F59;
+    border-radius: 8px;
+    font-size: 16px;
+    text-decoration: none;
+    border: none;
+    margin-top: 20px;
+}
+
+.bg3{
+    background-image:  linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url("images/Frame-AGBpDkZaG5cRpbaw.png");
+    width: 100%;
+    height: 600px;
+    background-position: top;
+    background-size: cover;
+    object-fit: cover;
+    
+}
+
+  .bg3 .overlay h1{
+    margin-top: 150px;
+    font-size: 70px;
+    font-weight: 500;
+}
+
+.overlay form input{
+    width: 400px;
+    height: 48px;
+    padding: 16px 56px 16px 16px;
+    font-size: 16px;
+    border-color: white;
+}
+
+.overlay form label{
+    font-size: 20px;
+    padding-right: 300px;
+}
+
+.overlay form{
+    margin-top: 30px;
+}
+
+.mid .button1{
+    margin-left: 150px;
+    font-size: 18px;
+    width: 194px;
+    height: 53px;
+    color: white;
+}
+
+footer{
+    background-color: rgb(241, 241, 241);
+    opacity: 1;
+    height: 272px;
+}
+
+.let h4{
+    font-weight: 700;
+    margin-left: 150px; 
+    margin-top: 90px;
+    font-size: 2rem;
+}
+
+.icon{
+    margin-left: 150px;
+    margin-top: 30px;
+}
+
+.icon i{
+    font-size: 25px;
+}
+
+.rig h4 u{
+    color: rgb(26, 26, 26);
+    font-weight: 400;
+    font-size: 20px;
+}
+
+.rig{
+    margin-top: 90px;
+    margin-left: 290px;
+}
+
+.pot{
+    text-align: center;
+    margin-top: 20px;
+}
+
+.pot span{
+    color: gray;
+    text-decoration: line-through;
+}
+
+.col-lg-3 img:hover{
+
+    background: top;
+    opacity: 0.5;
+    
+
+}
